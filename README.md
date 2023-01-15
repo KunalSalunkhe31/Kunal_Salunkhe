@@ -1,3 +1,4 @@
+![logo](https://github.com/KunalSalunkhe31/Kunal_Salunkhe/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kunal Salunkhe</h1>
 <h3 align="center">Data Science | Data Analytics | Applied Statistics</h3>
 
